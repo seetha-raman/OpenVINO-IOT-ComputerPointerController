@@ -1,0 +1,5 @@
+,FP32
+face_detection,292.33889999999997
+landmarks_detection,136.88350000000005
+head_pose_estimation,134.8695
+gaze_estimation,177.2727999999999

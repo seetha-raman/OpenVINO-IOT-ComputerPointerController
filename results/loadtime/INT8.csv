@@ -1,0 +1,5 @@
+,INT8
+face_detection,282.8835999999999
+landmarks_detection,168.45160000000004
+head_pose_estimation,226.05660000000006
+gaze_estimation,259.9043999999999

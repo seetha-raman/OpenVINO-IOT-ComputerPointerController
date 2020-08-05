@@ -1,0 +1,5 @@
+,FP16
+face_detection,477.55780000000004
+landmarks_detection,182.42119999999994
+head_pose_estimation,135.44450000000018
+gaze_estimation,164.95230000000015
